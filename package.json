@@ -1,0 +1,38 @@
+{
+  "name": "zus-blue-buddy-codex-pet",
+  "version": "1.0.0",
+  "description": "Install the animated ZUS Blue Buddy custom pet for Codex.",
+  "type": "module",
+  "license": "SEE LICENSE IN LICENSE",
+  "bin": {
+    "zus-blue-buddy-codex-pet": "bin/install.js"
+  },
+  "files": [
+    "bin/install.js",
+    "pet/zus-blue-buddy/pet.json",
+    "pet/zus-blue-buddy/spritesheet.webp",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "scripts": {
+    "check": "node bin/install.js --check"
+  },
+  "keywords": [
+    "codex",
+    "codex-pet",
+    "zus",
+    "mascot",
+    "spritesheet"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarryZus/zus-blue-buddy-codex-pet.git"
+  },
+  "homepage": "https://github.com/HarryZus/zus-blue-buddy-codex-pet#readme",
+  "bugs": {
+    "url": "https://github.com/HarryZus/zus-blue-buddy-codex-pet/issues"
+  }
+}

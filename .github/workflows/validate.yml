@@ -1,0 +1,27 @@
+name: Validate pet package
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: npm run check
+      - name: Test installation in an isolated Codex home
+        env:
+          CODEX_PET_HOME: ${{ runner.temp }}/codex-home
+        run: |
+          node bin/install.js
+          test -f "$CODEX_PET_HOME/pets/zus-blue-buddy/pet.json"
+          test -f "$CODEX_PET_HOME/pets/zus-blue-buddy/spritesheet.webp"
+          grep -q 'pet = "zus-blue-buddy"' "$CODEX_PET_HOME/config.toml"
+          grep -q 'selected-avatar-id = "custom:zus-blue-buddy"' "$CODEX_PET_HOME/config.toml"
