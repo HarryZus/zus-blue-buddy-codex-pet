@@ -2,6 +2,7 @@
   "name": "zus-blue-buddy-codex-pet",
   "version": "1.0.0",
   "description": "Install the animated ZUS Blue Buddy custom pet for Codex.",
+  "author": "HarryZus",
   "type": "module",
   "license": "SEE LICENSE IN LICENSE",
   "bin": {

@@ -2,6 +2,8 @@
 
 An animated Codex pet based on the cheerful blue ZUS Buddy cup mascot. The pet includes all nine Codex activity animations and sixteen look directions.
 
+Maintained solely by [@HarryZus](https://github.com/HarryZus).
+
 ![ZUS Blue Buddy animation contact sheet](previews/contact-sheet.png)
 
 ## Install
@@ -91,3 +93,7 @@ Gallery submissions enter a moderation queue before becoming publicly searchable
 ## Artwork and trademark notice
 
 ZUS, ZUS Coffee, ZUS Buddy, and related character elements are associated with their respective rights holder. The MIT terms in [LICENSE](LICENSE) apply only to the installer and repository code; they do not grant trademark or character-art rights. Confirm authorization before redistributing or using the mascot commercially.
+
+## Maintenance
+
+This repository has one maintainer: [@HarryZus](https://github.com/HarryZus). Suggestions and pull requests may be submitted, but acceptance, releases, and maintenance decisions remain with the maintainer.
