@@ -1,8 +1,10 @@
 # ZUS Blue Buddy for Codex
 
-An animated Codex pet based on the cheerful blue ZUS Buddy cup mascot. The pet includes all nine Codex activity animations and sixteen look directions.
+An animated Codex pet based on the compact ZUS Blue Buddy cup mascot, with its round edge-focused eyes, playful Mamee-style work gag, all nine Codex activity animations, and sixteen look directions.
 
 Maintained solely by [@HarryZus](https://github.com/HarryZus).
+
+![ZUS Blue Buddy front, side, and back turnaround](previews/turnaround.png)
 
 ![ZUS Blue Buddy animation contact sheet](previews/contact-sheet.png)
 
