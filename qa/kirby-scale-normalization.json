@@ -1,0 +1,120 @@
+{
+  "ok": true,
+  "reference": "/Users/user/.codex/pets/kirby/spritesheet.png",
+  "reference_rule": "Kirby idle median visible height and median floor margin",
+  "target_height": 104,
+  "target_bottom_margin": 14,
+  "shared_scale_per_row": true,
+  "rows": [
+    {
+      "row": 0,
+      "frame_count": 7,
+      "shared_scale": 0.5252525252525253,
+      "before_reference_height": 198,
+      "after_max_height": 104,
+      "after_median_height": 104,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 14
+    },
+    {
+      "row": 1,
+      "frame_count": 8,
+      "shared_scale": 0.5252525252525253,
+      "before_reference_height": 198,
+      "after_max_height": 104,
+      "after_median_height": 104.0,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 14.0
+    },
+    {
+      "row": 2,
+      "frame_count": 8,
+      "shared_scale": 0.5252525252525253,
+      "before_reference_height": 198,
+      "after_max_height": 104,
+      "after_median_height": 104.0,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 14.0
+    },
+    {
+      "row": 3,
+      "frame_count": 4,
+      "shared_scale": 0.5252525252525253,
+      "before_reference_height": 198,
+      "after_max_height": 104,
+      "after_median_height": 104.0,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 14.0
+    },
+    {
+      "row": 4,
+      "frame_count": 5,
+      "shared_scale": 0.697986577181208,
+      "before_reference_height": 149,
+      "after_max_height": 104,
+      "after_median_height": 101,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 24
+    },
+    {
+      "row": 5,
+      "frame_count": 8,
+      "shared_scale": 0.5473684210526316,
+      "before_reference_height": 190,
+      "after_max_height": 104,
+      "after_median_height": 100.5,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 16.0
+    },
+    {
+      "row": 6,
+      "frame_count": 6,
+      "shared_scale": 0.5252525252525253,
+      "before_reference_height": 198,
+      "after_max_height": 104,
+      "after_median_height": 104.0,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 14.0
+    },
+    {
+      "row": 7,
+      "frame_count": 6,
+      "shared_scale": 0.5252525252525253,
+      "before_reference_height": 198,
+      "after_max_height": 104,
+      "after_median_height": 104.0,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 14.0
+    },
+    {
+      "row": 8,
+      "frame_count": 6,
+      "shared_scale": 0.5252525252525253,
+      "before_reference_height": 198,
+      "after_max_height": 104,
+      "after_median_height": 104.0,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 14.0
+    },
+    {
+      "row": 9,
+      "frame_count": 8,
+      "shared_scale": 0.5252525252525253,
+      "before_reference_height": 198,
+      "after_max_height": 104,
+      "after_median_height": 104.0,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 14.0
+    },
+    {
+      "row": 10,
+      "frame_count": 8,
+      "shared_scale": 0.5333333333333333,
+      "before_reference_height": 195,
+      "after_max_height": 104,
+      "after_median_height": 104.0,
+      "after_ground_margin": 14,
+      "after_median_bottom_margin": 14.0
+    }
+  ]
+}

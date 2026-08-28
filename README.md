@@ -60,6 +60,8 @@ npx --yes github:HarryZus/zus-blue-buddy-codex-pet --uninstall
 
 The atlas uses the Codex v2 pet format: 8 columns by 11 rows, with 192×208 pixel cells and a final size of 1536×2288.
 
+The mascot framing follows Kirby's native Codex convention: approximately 104 pixels of visible character height with a 14-pixel floor margin, using one stable scale across every frame in each row.
+
 | Row | Animation | When it appears |
 | --- | --- | --- |
 | 0 | Idle | Codex is open but not actively working. |
